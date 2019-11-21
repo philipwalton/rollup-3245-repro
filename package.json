@@ -1,0 +1,10 @@
+{
+  "name": "rollup-3245-repro",
+  "version": "0.0.0",
+  "description": "...",
+  "main": "src/main.mjs",
+  "license": "Apache-2",
+  "devDependencies": {
+    "rollup": "^1.27.3"
+  }
+}
